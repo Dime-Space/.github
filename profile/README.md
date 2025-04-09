@@ -120,6 +120,7 @@ Mostra:
 
 - Typescript;
 - React (Vite);
+- React Router Dom
 - React useForm (controle de formulários);
 - React useQuery Tanstack (controle de promessas [requisições]);
 - Tailwind css;
