@@ -1,3 +1,4 @@
+
 ## 1. Introdução
 
 Neste projeto, propomos o desenvolvimento de uma plataforma web que conecta desenvolvedores e empresas, com o objetivo de facilitar:
@@ -113,3 +114,28 @@ Mostra:
 - Identificação das partes
 - Forma de pagamento (ex: chave PIX)
 - Confirmação de que o valor será liberado após a finalização oficial da proposta pela empresa
+
+## 3. Tecnologias
+### 3.1 Front-end
+
+- Typescript;
+- React (Vite);
+- React useForm (controle de formulários);
+- React useQuery Tanstack (controle de promessas [requisições]);
+- Tailwind css;
+- Shadcn (componentes);
+- Axios (requests https);
+- date-fns (formatação de datas);
+- Zod (validação de formulários).
+
+### 3.2 Back-end
+- Typescript;
+- Nestjs;
+- TypeORM;
+- Stripe (pagamentos);
+- date-fns.
+- Zod (validação de formulários).
+
+
+### 3.3 Banco de dados
+- Postgres SQL
